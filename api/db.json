@@ -1,0 +1,1626 @@
+[
+	{
+		"text": "Nunca he tenido sexo en un lugar público",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 0
+	},
+	{
+		"text": "Nunca he enviado un mensaje subido de tono a la persona equivocada",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 1
+	},
+	{
+		"text": "Nunca he dicho el nombre equivocado en la cama",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 2
+	},
+	{
+		"text": "Nunca he tenido un amigo con derecho a roce",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 3
+	},
+	{
+		"text": "Nunca me he acostado con alguien cuyo nombre no conozco",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 4
+	},
+	{
+		"text": "Nunca he estado en un sex shop",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 5
+	},
+	{
+		"text": "Nunca he hecho un trío",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 6
+	},
+	{
+		"text": "Nunca me he tenido sexo en un avión",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 7
+	},
+	{
+		"text": "Nunca he enviado un selfie sexy",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 8
+	},
+	{
+		"text": "Nunca he tenido sexo en el mar/piscina",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 9
+	},
+	{
+		"text": "Nunca he tenido una aventura de una noche",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 10
+	},
+	{
+		"text": "Nunca he fingido un orgasmo",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 11
+	},
+	{
+		"text": "Nunca he tenido sexo rápido con alguien",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 12
+	},
+	{
+		"text": "Nunca he hecho o recibido un baile erótico",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 13
+	},
+	{
+		"text": "Nunca me he acostado con un compañero de trabajo",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 14
+	},
+	{
+		"text": "Nunca he vuelto con un ex",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 15
+	},
+	{
+		"text": "Nunca me han sorprendido mientras tenía relaciones sexuales",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 16
+	},
+	{
+		"text": "Nunca he tenido un sueño erótico con alguien de esta habitación",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 17
+	},
+	{
+		"text": "Nunca he tenido un sueño sexual con alguien que la gente de esta habitación conozca",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 18
+	},
+	{
+		"text": "Nunca he tenido un juguete sexual favorito",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 19
+	},
+	{
+		"text": "Nunca he jugado a personajes en la cama",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 20
+	},
+	{
+		"text": "Nunca he chupado los dedos de los pies de mi pareja",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 21
+	},
+	{
+		"text": "Nunca he hecho el paseo de la vergüenza",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 22
+	},
+	{
+		"text": "Nunca he tenido una fantasía sexual con otra persona cuando estaba en una relación",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 23
+	},
+	{
+		"text": "Nunca he buscado en Google las posiciones sexuales del Kamasutra",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 24
+	},
+	{
+		"text": "Nunca he tenido un apodo sexy o le he puesto un apodo sexy a alguien",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 25
+	},
+	{
+		"text": "Nunca he besado a más de una persona en un día",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 26
+	},
+	{
+		"text": "Nunca he tenido que ocultar un chupetón",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 27
+	},
+	{
+		"text": "Nunca he estado con alguien sin saber su nombre",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 28
+	},
+	{
+		"text": "Nunca he usado esposas o algo similar",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 29
+	},
+	{
+		"text": "Nunca me he hecho un tatuaje",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 30
+	},
+	{
+		"text": "Nunca me he desnudado en público",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 31
+	},
+	{
+		"text": "Nunca he dejado plantado a alguien en una cita",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 32
+	},
+	{
+		"text": "Nunca me han puesto una multa por exceso de velocidad",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 33
+	},
+	{
+		"text": "Nunca he hecho 'ghosting' a alguien",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 34
+	},
+	{
+		"text": "Nunca he mentido para no ir a trabajar",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 35
+	},
+	{
+		"text": "Nunca he dado un nombre falso",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 36
+	},
+	{
+		"text": "Nunca he dejado a alguien por mensaje",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 37
+	},
+	{
+		"text": "Nunca me he puesto enferma en el transporte público",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 38
+	},
+	{
+		"text": "Nunca he mentido a alguien de esta sala",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 39
+	},
+	{
+		"text": "Nunca he enviado un mensaje a un ex sin venir a cuento",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 40
+	},
+	{
+		"text": "Nunca he mentido en una 'app' para ligar",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 41
+	},
+	{
+		"text": "Nunca he robado en una tienda",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 42
+	},
+	{
+		"text": "Nunca he besado al hermano de un amigo",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 43
+	},
+	{
+		"text": "Nunca he hecho 'catfishing' a alguien",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 1,
+		"id": 44
+	},
+	{
+		"text": "Nunca me han negado la entrada a un club",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 45
+	},
+	{
+		"text": "Nunca he tenido un rollo en vacaciones",
+		"from": "Drinkin",
+		"yes": 2,
+		"no": 0,
+		"id": 46
+	},
+	{
+		"text": "Nunca he usado el cepillo de dientes de otra persona",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 1,
+		"id": 47
+	},
+	{
+		"text": "Nunca he orinado en la ducha",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 48
+	},
+	{
+		"text": "Nunca he acosado a la nueva pareja de un ex en las redes sociales",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 49
+	},
+	{
+		"text": "Nunca me han echado de un bar o club",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 50
+	},
+	{
+		"text": "Nunca me he bañado desnuda",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 51
+	},
+	{
+		"text": "Nunca he salido con el ex de un amiga",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 52
+	},
+	{
+		"text": "Nunca he dicho 'te quiero' cuando no era verdad",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 53
+	},
+	{
+		"text": "Nunca me han asaltado",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 54
+	},
+	{
+		"text": "Nunca me he roto un hueso",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 55
+	},
+	{
+		"text": "Nunca he mentido para salir de la discoteca antes de tiempo",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 56
+	},
+	{
+		"text": "Nunca he cogido manía a una amiga o a otra persona",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 57
+	},
+	{
+		"text": "Nunca he besado a un famoso",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 58
+	},
+	{
+		"text": "Nunca he comido las sobras de otra mesa en un restaurante",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 59
+	},
+	{
+		"text": "Nunca he tenido una cita a ciegas",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 60
+	},
+	{
+		"text": "Nunca he robado algo",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 61
+	},
+	{
+		"text": "Nunca me han engañado",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 62
+	},
+	{
+		"text": "Nunca he cenado con un chico y me he acostado con él en la primera cita",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 63
+	},
+	{
+		"text": "Nunca he entrado sin autorización a un lugar",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 64
+	},
+	{
+		"text": "Nunca he gastado más de 200 euros en una noche de fiesta",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 65
+	},
+	{
+		"text": "Nunca he mandado mensajes privados a un famoso",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 66
+	},
+	{
+		"text": "Nunca he pagado por una clase de gimnasia y no he asistido",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 67
+	},
+	{
+		"text": "Nunca he pillado a mis padres teniendo sexo",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 68
+	},
+	{
+		"text": "Nunca he estado en una playa nudista",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 69
+	},
+	{
+		"text": "Nunca me he quedado a dormir en la casa de un extraño una noche entera",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 70
+	},
+	{
+		"text": "Nunca he copiado en un examen",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 71
+	},
+	{
+		"text": "Nunca he fingido ser otra persona",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 72
+	},
+	{
+		"text": "Nunca he ignorado a un conocido en público",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 73
+	},
+	{
+		"text": "Nunca he estropeado una prenda de vestir que me prestó una amiga",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 74
+	},
+	{
+		"text": "Nunca he hecho autostop",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 75
+	},
+	{
+		"text": "Nunca me he colado en un festival o club",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 76
+	},
+	{
+		"text": "Nunca he mentido en este juego",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 77
+	},
+	{
+		"text": "Nunca he orinado en público",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 78
+	},
+	{
+		"text": "Nunca he mentido al besar a alguien",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 79
+	},
+	{
+		"text": "Nunca he infringido la ley",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 80
+	},
+	{
+		"text": "Nunca me he enamorado de alguien de esta sala",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 81
+	},
+	{
+		"text": "Nunca me he quedado encerrada en mi casa por estar borracha",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 82
+	},
+	{
+		"text": "Nunca he mentido a mi jefe",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 83
+	},
+	{
+		"text": "Nunca me he colado en los DMs de alguien",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 84
+	},
+	{
+		"text": "Nunca me he hecho un tatuaje del que me haya arrepentido",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 85
+	},
+	{
+		"text": "Nunca he dejado de llevar ropa interior en una noche de fiesta",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 86
+	},
+	{
+		"text": "Nunca he mirado el teléfono de mi pareja",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 87
+	},
+	{
+		"text": "Nunca he editado mis selfies",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 88
+	},
+	{
+		"text": "Nunca he usado la cuenta de Netflix de otra persona",
+		"from": "Drinkin",
+		"yes": 2,
+		"no": 0,
+		"id": 89
+	},
+	{
+		"text": "Nunca he hecho ghosting a alguien por algo minúsculo y sin importancia",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 90
+	},
+	{
+		"text": "Nunca he contado el secreto de alguien",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 91
+	},
+	{
+		"text": "Nunca he devuelto algo después de habérmelo puesto",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 92
+	},
+	{
+		"text": "Nunca se me ha caído el teléfono en el baño",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 93
+	},
+	{
+		"text": "Nunca he salido corriendo haciendo un simpa",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 94
+	},
+	{
+		"text": "Nunca he buscado mi propio nombre en Google",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 95
+	},
+	{
+		"text": "Nunca he olvidado dónde he aparcado mi coche",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 96
+	},
+	{
+		"text": "Nunca me he encaprichado con el padre de un amigo",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 97
+	},
+	{
+		"text": "Nunca he utilizado una frase para ligar",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 98
+	},
+	{
+		"text": "Nunca he engañado a nadie",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 2,
+		"id": 99
+	},
+	{
+		"text": "Nunca he vuelto a regalar un regalo que no quería",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 100
+	},
+	{
+		"text": "Nunca le he puesto a una pareja un mote de animal",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 101
+	},
+	{
+		"text": "Nunca he creado una cuenta de Instagram falsa",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 102
+	},
+	{
+		"text": "Nunca he robado en una tienda",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 103
+	},
+	{
+		"text": "Nunca he hecho autostop",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 104
+	},
+	{
+		"text": "Nunca me han arrestado",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 105
+	},
+	{
+		"text": "Nunca me han electrocutado a posta",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 106
+	},
+	{
+		"text": "Nunca he dicho ser vegana y como carne",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 107
+	},
+	{
+		"text": "Nunca he montado en un animal y me he caido",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 2,
+		"id": 108
+	},
+	{
+		"text": "Nunca he robado en casa de mi mejor amigo",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 109
+	},
+	{
+		"text": "Nunca he robado a mi madre o padre",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 110
+	},
+	{
+		"text": "Nunca he robado dinero de alguna cartera",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 111
+	},
+	{
+		"text": "Nunca he besado al novio de mi mejor amigo/a",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 112
+	},
+	{
+		"text": "Nunca he besado a la novia de mi mejor amiga/o",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 113
+	},
+	{
+		"text": "Nunca he conducido borracho",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 114
+	},
+	{
+		"text": "Nunca he presumido de algo que no dice",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 115
+	},
+	{
+		"text": "Nunca he dicho 'Te amo' solo para follar",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 116
+	},
+	{
+		"text": "Nunca he dudado de mi sexualidad",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 117
+	},
+	{
+		"text": "Nunca me he reído de alguien por detrás",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 118
+	},
+	{
+		"text": "Nunca he apostado",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 119
+	},
+	{
+		"text": "Nunca me he ido de clase por amor",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 120
+	},
+	{
+		"text": "Nunca he stalkeado a mi ex cada día",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 121
+	},
+	{
+		"text": "Nunca he cogido la mano de alguien que no era",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 122
+	},
+	{
+		"text": "Nunca he hecho trampas en un examen",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 123
+	},
+	{
+		"text": "Nunca he mentido en este juego",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 124
+	},
+	{
+		"text": "Nunca me he hecho fotos desnudo",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 1,
+		"id": 125
+	},
+	{
+		"text": "Nunca he sido infiel",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 126
+	},
+	{
+		"text": "Nunca he tenido una noche de fiesta que no recuerdo",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 127
+	},
+	{
+		"text": "Nunca he usado comida durante el sexo",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 128
+	},
+	{
+		"text": "Nunca he practicado sexo con los calcetines puestos",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 129
+	},
+	{
+		"text": "Nunca he intentado levantarle la pareja a otra persona",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 130
+	},
+	{
+		"text": "Nunca he stalkeado a alguien que me gusta por Internet",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 131
+	},
+	{
+		"text": "Nunca he recibido un piropo por mis genitales",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 132
+	},
+	{
+		"text": "Nunca he guardado fotos de ex desnudos de forma secreta",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 133
+	},
+	{
+		"text": "Nunca me he masturbado mientras hablaba por teléfono",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 1,
+		"id": 134
+	},
+	{
+		"text": "Nunca he ido a un club de intercambio",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 135
+	},
+	{
+		"text": "Nunca he tenido sexo con alguien de este grupo",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 136
+	},
+	{
+		"text": "Nunca he besado a alguien de este grupo",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 137
+	},
+	{
+		"text": "Nunca he besado a alguien y luego me he arrepentido",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 138
+	},
+	{
+		"text": "Nunca he pensado en una boda que el matrimonio tiene los días contados",
+		"from": "Drinkin",
+		"yes": 2,
+		"no": 0,
+		"id": 139
+	},
+	{
+		"text": "Nunca he roto un mueble durante el sexo",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 140
+	},
+	{
+		"text": "Nunca he tenido sexo en la cocina",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 141
+	},
+	{
+		"text": "Nunca he practicado sexo en la cama de mis padres",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 142
+	},
+	{
+		"text": "Nunca he disfrutado recibiendo azotes",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 143
+	},
+	{
+		"text": "Nunca me he hecho fotos practicando sexo",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 144
+	},
+	{
+		"text": "Nunca he usado aceite de masaje",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 145
+	},
+	{
+		"text": "Nunca he dado un masaje y he aprovechado para tocar donde no debía",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 146
+	},
+	{
+		"text": "Nunca he practicado sexo en la discoteca",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 147
+	},
+	{
+		"text": "Nunca me han masturbado en el cine",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 148
+	},
+	{
+		"text": "Nunca he participado en una orgía",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 149
+	},
+	{
+		"text": "Nunca me he sentido atraído por un familiar",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 150
+	},
+	{
+		"text": "Nunca me he sentido atraído por alguien del trabajo",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 151
+	},
+	{
+		"text": "Nunca he practicado sexo con esposas",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 152
+	},
+	{
+		"text": "Nunca he fingido un orgasmo",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 153
+	},
+	{
+		"text": "Nunca he mentido en el 'nunca he'",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 154
+	},
+	{
+		"text": "Nunca he escrito un mensaje o he llamado a mi ex cuando estaba borracho",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 155
+	},
+	{
+		"text": "Nunca he sido infiel",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 156
+	},
+	{
+		"text": "Nunca he mandado un mensaje 'caliente' a un contacto equivocado",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 157
+	},
+	{
+		"text": "Nunca he salido a la calle sin ropa interior",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 158
+	},
+	{
+		"text": "Nunca he realizado cybersexo",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 1,
+		"id": 159
+	},
+	{
+		"text": "Nunca he hecho un striptease",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 160
+	},
+	{
+		"text": "Nunca he practicado sexo oral conduciendo",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 161
+	},
+	{
+		"text": "Nunca me he acostado con dos personas el mismo dia",
+		"from": "Drinkin",
+		"yes": 2,
+		"no": 0,
+		"id": 162
+	},
+	{
+		"text": "Nunca he tenido sexo con alguien sin conocerle",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 163
+	},
+	{
+		"text": "Nunca he tenido sexo con alguien de Tinder",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 164
+	},
+	{
+		"text": "Nunca he dicho cosas bonitas solo por tener sexo",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 165
+	},
+	{
+		"text": "Nunca he practicado sexo oral en un sitio prohibido",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 166
+	},
+	{
+		"text": "Nunca he practicado sexo anal",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 167
+	},
+	{
+		"text": "Nunca hice un trio",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 168
+	},
+	{
+		"text": "Nunca me he emborrachado tanto que hice una locura",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 169
+	},
+	{
+		"text": "Nunca he sido pillado masturbándome",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 170
+	},
+	{
+		"text": "Nunca he besado a alguien del mismo sexo",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 171
+	},
+	{
+		"text": "Nunca practiqué sexo con alguien de mi mismo sexo",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 172
+	},
+	{
+		"text": "Nunca me he acostado con alguien del mismo sexo",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 173
+	},
+	{
+		"text": "Nunca me he acostado con mi mejor amigo/a",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 174
+	},
+	{
+		"text": "Nunca besé a alguien sin conocerlo",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 175
+	},
+	{
+		"text": "Nunca hice algo sexual en el instituto",
+		"from": "Drinkin",
+		"yes": 2,
+		"no": 0,
+		"id": 176
+	},
+	{
+		"text": "Nunca he enviado fotos desnudo/a a un amigo/a",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 177
+	},
+	{
+		"text": "Nunca hice un oral a alguien de mi mismo sexo",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 1,
+		"id": 178
+	},
+	{
+		"text": "Nunca me he enamorado de alguien después de acostarme varias veces con él",
+		"from": "Drinkin",
+		"yes": 2,
+		"no": 0,
+		"id": 179
+	},
+	{
+		"text": "Nunca me han esposado a la cama",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 180
+	},
+	{
+		"text": "Nunca me han gustado los juguetes sexuales",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 181
+	},
+	{
+		"text": "Nunca me ha gustado el BDSM",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 182
+	},
+	{
+		"text": "Nunca me ha gustado vestirme del sexo opuesto",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 183
+	},
+	{
+		"text": "Nunca me he enamorado del hermano/a de un amigo",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 184
+	},
+	{
+		"text": "Nunca he coqueteado con alguien más de 10 años mayor que yo",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 185
+	},
+	{
+		"text": "Nunca he sido un amigo/a con derecho a roce",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 186
+	},
+	{
+		"text": "Nunca he sido juguetón con nata",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 187
+	},
+	{
+		"text": "Nunca he salido con más de una persona a la vez",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 188
+	},
+	{
+		"text": "Nunca he visto a otra persona desnuda en persona",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 189
+	},
+	{
+		"text": "Nunca he estado en una tienda para adultos",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 190
+	},
+	{
+		"text": "Nunca he visto una película porque sabía que tenía desnudos",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 191
+	},
+	{
+		"text": "Nunca he jugado al strip poker",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 192
+	},
+	{
+		"text": "Nunca he echado un vistazo a alguien en la ducha",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 193
+	},
+	{
+		"text": "Nunca he tenido un sueño con alguien que me gusta",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 194
+	},
+	{
+		"text": "Nunca me he enamorado de un profesor",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 195
+	},
+	{
+		"text": "Nunca me he hecho amigo de un ex",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 196
+	},
+	{
+		"text": "Nunca he tenido una lesión en el dormitorio",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 197
+	},
+	{
+		"text": "Nunca he fantaseado con alguien más",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 198
+	},
+	{
+		"text": "Nunca he hecho videos subidos de tono",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 199
+	},
+	{
+		"text": "Nunca he pillado a un familiar masturbándose",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 200
+	},
+	{
+		"text": "Nunca he pillado a un familiar teniendo sexo",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 201
+	},
+	{
+		"text": "Nunca lo he hecho en la playa",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 202
+	},
+	{
+		"text": "Nunca lo he hecho en el probador de una tienda",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 203
+	},
+	{
+		"text": "Nunca he experimentado con artículos del hogar durante el sexo",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 204
+	},
+	{
+		"text": "Nunca he esperado que mi pareja fuera más abierta en términos de sexo",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 205
+	},
+	{
+		"text": "Nunca me he acostado con mi pareja solo porque ella lo quería",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 206
+	},
+	{
+		"text": "Nunca he tenido una cita solo para hascer daño a otra persona",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 207
+	},
+	{
+		"text": "Nunca he tenido nada con un estudiante de intercambio",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 208
+	},
+	{
+		"text": "Nunca he buscado fotos de desnudos de una persona específica en Internet",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 209
+	},
+	{
+		"text": "Nunca me he acostado con alguien sin tomar precauciones",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 210
+	},
+	{
+		"text": "Nunca le he dicho el nombre de mi ex a mi pareja",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 211
+	},
+	{
+		"text": "Nunca he practicado más de 10 posturas sexuales distintas",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 212
+	},
+	{
+		"text": "Nunca he tenido un romance con una persona casada",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 213
+	},
+	{
+		"text": "Nunca he bebido sobre el cuerpo de otra persona",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 214
+	},
+	{
+		"text": "Nunca he tenido una sesión de sexo de más de tres horas",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 215
+	},
+	{
+		"text": "Nunca me he tragado nada que no volvería a tragarme voluntariamente",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 216
+	},
+	{
+		"text": "Nunca me he enamorado de mi mejor amigo",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 217
+	},
+	{
+		"text": "Nunca me he acostado con más de 10 personas en mi vida",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 218
+	},
+	{
+		"text": "Nunca he practicado sexo pensando en mi ex",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 219
+	},
+	{
+		"text": "Nunca he dado mal mi número de teléfono para que no me llamen",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 220
+	},
+	{
+		"text": "Nunca he tenido más de tres orgasmos en un día",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 221
+	},
+	{
+		"text": "Nunca le he pedido a una pareja hacer un cuarteto",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 222
+	},
+	{
+		"text": "Nunca le he pedido a una pareja hacer un intercambio",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 223
+	},
+	{
+		"text": "Nunca he tenido sexo en un trampolín de una piscina por la noche",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 224
+	},
+	{
+		"text": "Nunca he usado una fruta o una verdura para darme placer",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 225
+	},
+	{
+		"text": "Nunca he regalado flores sólo para conseguir sexo",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 226
+	},
+	{
+		"text": "Nunca me he excitado tanto estudiando que me he tenido que masturbar",
+		"from": "Drinkin",
+		"yes": 1,
+		"no": 0,
+		"id": 227
+	},
+	{
+		"text": "Nunca he dormido completamente desnudo",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 228
+	},
+	{
+		"text": "Nunca he usado bolas chinas",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 229
+	},
+	{
+		"text": "Nunca me he masturbado 5 veces en un día",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 1,
+		"id": 230
+	},
+	{
+		"text": "Nunca me he depilado los genitales",
+		"from": "Drinkin",
+		"yes": 0,
+		"no": 0,
+		"id": 231
+	}
+]
