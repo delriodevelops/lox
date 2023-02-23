@@ -14,13 +14,23 @@ app.set("trust proxy", true);
 app.use(logger);
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.use("/", router);
 app.use(cors());
+app.use("/", router);
 
+let conection = 0;
+let ola = 0;
 io.on("connection", socket => {
 	//aqui van todos los sockets
-	console.log("connected de locos");
-	socket.on("hoal", creator_id => {});
+	console.log("connected de locos", ++conection);
+	socket.on("join_room", ({ user_id, room_id }) => {
+		socket.join(room_id);
+		socket.broadcast.emit(
+			"joined_room",
+			`user ${user_id} joined the room ${room_id}`
+		);
+		console.log("user", user_id);
+		console.log("room", room_id);
+	});
 });
 
 server.listen(PORT, () => {
